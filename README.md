@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dimahammar2005@gmail.com
-- 😄 Pronouns: her
+- 😄 Pronouns: Dimah
 - ⚡ Fun fact: Coding makes me cry but I like it🥲
 
 <!---
