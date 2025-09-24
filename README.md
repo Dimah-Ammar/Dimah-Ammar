@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimah-Ammar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C#, JS
+- 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dimahammar2005@gmail.com
 - 😄 Pronouns: Dimah
